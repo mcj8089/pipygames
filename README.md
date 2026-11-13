@@ -5,6 +5,10 @@
 <h1 align="center">Pipygames</h1>
 
 <p align="center">
+  <b>English</b> · <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <b>🎮 https://pipygames.com</b> — free online HTML5 games.<br>
   Click, play, done. No download, no install, no sign-up wall — on desktop and mobile.
 </p>
@@ -292,16 +296,9 @@ rewarded/interstitial ads and event tracking.
 - Takedowns and copyright: https://pipygames.com/dmca · Privacy: /privacy · Terms: /terms
 - Questions or partnerships: https://pipygames.com/about#contact
 
-## 🇨🇳 中文简介
+## 🇨🇳 中文版
 
-**[https://pipygames.com](https://pipygames.com)** 是一个免费的网页游戏站（Pipygames），浏览器打开即玩，
-无需下载、无需安装、不用注册。
-
-- 截至 2026-11-13 线上共有 **124 款游戏**，分布在 **17 个分类**（射击、竞速、益智、动作、体育、街机、冒险、策略等），完整名称与网址见上方表格。
-- 游戏全部由上传者提交静态 HTML5 包（含 `index.html`）→ 自动生成封面 → 机器审核 + 人工抽查 → 24 小时内上线，运行在沙箱 iframe 中。
-- 开发者分成 **50%**（新开发者上线期 **70%**），**Net-45** 月结；另有 Share & Earn 分享返现玩法。
-- 本站与 y8.com 无关联。提交游戏：https://pipygames.com/developers · 关于我们：https://pipygames.com/about
-- 本仓库只放**项目介绍和游戏清单**，不包含网站源码与游戏源码。
+完整中文介绍与中文游戏目录（124 款，含游玩网址）：**[README.zh-CN.md](README.zh-CN.md)**。
 
 ---
 
